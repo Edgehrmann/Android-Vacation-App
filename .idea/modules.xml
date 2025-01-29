@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/d424-software-engineering-capstone.iml" filepath="$PROJECT_DIR$/.idea/d424-software-engineering-capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d424_software_engineering_capstone.iml" filepath="$PROJECT_DIR$/.idea/modules/d424_software_engineering_capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/d424_software_engineering_capstone.app.unitTest.iml" />
     </modules>
   </component>
 </project>
